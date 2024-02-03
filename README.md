@@ -1,2 +1,1 @@
 # mgintalas.github.io
-hi
