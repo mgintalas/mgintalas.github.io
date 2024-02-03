@@ -1,46 +1,11 @@
-# this is only for search engines, it does not appear in the home
-# as long as the json variables name and description are provided
-title: Yuma Tokunaga (徳永悠真) personal website
-description: This is a personal website of Yuma Tokunaga, an economist for Waseda University.
+title: Hacked Jekyll
+description: Jekyll microtheme that looks like JSON
 baseurl: ""
-url: https://hacked-jekyll.netlify.app
+url: https://piazzai.github.io/hacked-jekyll
 
-# this information is shown on the homepage, all fields are optional and
-# can be declared either as a single string or as a string array/hash
-json:
-  name: yuma tokunaga
-  description:
-    - Theoretical Economics
-    - Health Economics
-    - Public Economics
-  cv: assets/cv.pdf
-  address:
-    - Waseda University
-    - Department of Political Science and Economics
-    - 1-104 Totsukamchi, Shinjuku-ku, Tokyo
-  awards: [here](https://economics.mit.edu/people/faculty/parag-pathak/working-papers)
-  researches: here
-  profiles:
-    email: tokunagamuy@gmail.com
-    facebook: https://www.facebook.com
-    twitter: https://twitter.com
-    instagram: https://www.instagram.com
-    linkedin: https://www.linkedin.com
-    stackoverflow: https://stackoverflow.com
-    github: https://github.com
+#theme: hacked-jekyll
+remote_theme: piazzai/hacked-jekyll
 
 exclude:
   - LICENSE
   - README.md
-
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-whitelist:
-  - jekyll-sitemap
-
-sass:
-  sass_dir: _sass
-  style: compressed
-  sourcemap: never

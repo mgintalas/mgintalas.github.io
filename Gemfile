@@ -1,5 +1,3 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem 'jekyll'
-gem 'jekyll-seo-tag'
-gem 'jekyll-sitemap'
+gem 'hacked-jekyll', '~> 2.0'
