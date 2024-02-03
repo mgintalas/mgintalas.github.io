@@ -15,16 +15,17 @@ json:
     - A website to show you everything about me.
     - Please have a look around.
     - But do not get lost!
-  cv: cv
+  #cv: cv
   navigation:
-    Experience: experience
-    Education: education
+    #Experience: experience
+    #Education: education
     Projects: projects
   contact:
     email: martynas.gintal@gmail.com
   profiles:
     Github: https://github.com/mgintalas
     Linkedin: https://www.linkedin.com/in/martynas-gintalas-957743b0/
+    TableauPublic: https://public.tableau.com/app/profile/martynas4885/vizzes
   Repo: https://github.com/mgintalas/mgintalas.github.io
 
 experience:
