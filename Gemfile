@@ -1,7 +1,5 @@
 source 'https://rubygems.org'
 
-#gem "github-pages", group: :jekyll_plugins
-
 #gem 'hacked-jekyll', '~> 2.0'
 #gem 'public_suffix'
 #gem 'addressable'
