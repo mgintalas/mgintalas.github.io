@@ -1,7 +1,8 @@
-title: Hacked Jekyll
-description: Jekyll microtheme that looks like JSON
+
+title: Martynas Gintalas personal website
+description: This is a personal website of Martynas Gintalas, Data Engineer from Lithuania
 baseurl: ""
-url: https://piazzai.github.io/hacked-jekyll
+url: https://hacked-jekyll.netlify.app
 
 #theme: hacked-jekyll
 
