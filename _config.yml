@@ -5,7 +5,7 @@ url: https://piazzai.github.io/hacked-jekyll
 
 #theme: hacked-jekyll
 
-remote_theme: hacked-jekyll
+remote_theme: piazzai/hacked-jekyll
 
 exclude:
   - LICENSE
