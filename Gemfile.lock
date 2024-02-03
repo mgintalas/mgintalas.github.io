@@ -72,7 +72,20 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
-  hacked-jekyll
+  addressable
+  concurrent-ruby
+  google-protobuf
+  hacked-jekyll (~> 2.0)
+  jekyll
+  jekyll-sass-converter
+  kramdown
+  mercenary
+  public_suffix
+  rouge
+  sass-embedded
+  terminal-table
+  unicode-display_width
+  webrick
 
 BUNDLED WITH
    2.5.5
