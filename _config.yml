@@ -1,17 +1,10 @@
-title: ""
-description: ""
+title: Hacked Jekyll
+description: Jekyll microtheme that looks like JSON
 baseurl: ""
-url: ""
+url: https://piazzai.github.io/hacked-jekyll
 
-lowercase: true
-color_bg: var(--oc-gray-9)
-color_punct: var(--oc-green-9)
-color_keyval: var(--oc-green-4)
-color_hover: var(--oc-green-5)
-show_quotes: true
-show_commas: true
-target: "_self"
+theme: hacked-jekyll
 
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
+exclude:
+  - LICENSE
+  - README.md
