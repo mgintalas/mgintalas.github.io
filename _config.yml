@@ -8,7 +8,7 @@ url: https://mgintalas.github.io/
 # this information is shown on the homepage, all fields are optional and
 # can be declared either as a single string or as a string array/hash
 json:
-  name: martynas gintalas
+  name: martynas
   description:
     - Hi!
     - Welcome to my space.
